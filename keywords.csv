@@ -1,0 +1,103 @@
+Keyword,Definition,Chapter
+Abstraction ," the process of extracting information that is essential, while ignoring what is not relevant, for the provision of a solution.",9
+Decomposition , the process of breaking a complex problem into smaller parts.,9
+Float,A data type that is consisted of a decimal point number (Python),9
+Flowchart , a diagrammatic representation of an algorithm.,9
+Pattern recognition ,the identification of parts of a problem that are similar and could use the same solution.,9
+Perfective maintenance , the process of making improvements to the performance of a progra m.,9
+Pointer ,Points to a location in the memory ,9
+Stepwise refinement ," the practice of subdividing each part of a Larger problem into a series of smaller parts, and so on, as required.",9
+Algorithm , an ordered set of steps to be followed in the completion of a task.,9
+Structured English ," a method of showing the logical steps in an algorithm, using an agreed subset of straightforward English words for commands and mathematical operations.",9
+Argument , the value passed to a procedure or function.,10
+Data type ," a classification attributed to an item of data, which determines the types of value it can take and how it can be used.",10
+Header (procedure or function) ," the first state ment in the definition of a procedure or function, which contains its name, any parameters passed to it, and, for a function, the type of the return value.",10
+Identifier , a unique name applied to an item of data.,10
+identifier table,"a table listing the variable identifier required for the solution, with explanations and data types.",10
+In demand paging , a form of data swapp in g where pages of data are not copied from HDD/SSD into RAM until they are actually requ ired .,10
+Normal test data , test data that should be accepted by a program.,10
+Relationship,"A relationship, in the context of databases, is a situation that exists between two relational database tables when one table has a foreign key that references the primary key of the other table. Relationships allow relational databases to split and store data in different tables, while linking disparate data items.",10
+state transition diagram,A graphical representation of a finite state machine,10
+Array , a data structure containing several elements of the same data type.,10
+Hash Table,"Hash Table is a data structure which stores data in an associative manner. In a hash table, data is stored in an array format, where each data value has its own unique index value. Access of data becomes very fast if we know the index of the desired data.",10
+Index (array) , a numerical indicator of an item of data's position in an array .,10
+Linear search , a method of searching in which each element of an array is checked in order.,10
+Back up utility,software that makes copies of files on another portable storage device.,10
+Binary file , a file that does not contain text only; the file is machine,10
+Close ,file-processing operation; closes a file so it can no longer be used by a program.,10
+Header,"The beginning of a WAV (RIFF) file, used to provide specifications on the file type.",10
+Pieces , splitting up of a file when using peer,10
+Sequential access , a method of file access in which records are searched one after another from the physical start of the file until the required record is found.,10
+Abstract data type (ADT) , a collection of data and a set of operations on that data.,10
+Extreme test data ,test data that is on the limit of that accepted by a program.,10
+Linked list , a list containing several items in which each item in the list points to the next item in the list.,10
+Queue ," a list containing several items operating on the first in, first out (FIFO) principle.",10
+Rules ,relationships between facts.,10
+Accepting State,A state the system reaches when the input string is valid,11
+Coding , part of the program development lifecycle; the writing of the program or suite of programs.,11
+Element ,one item in a dictionary,11
+Insertion sort , a method of sorting data in an array into,11
+Instance , An occurrence of an object during the execution of a program.,11
+Loopback address , 127.0.0.1 a special address that hosts use to direct traffic to themselves (addresses 127.0.0.0 to 127.255.255.255 are reserved),11
+Modulo 11,method used to calculat e a check digit based on modulus division by 11.,11
+Parameter ,a variable applied to a procedure or function that allows one to pass in a value for the procedure to use.,11
+Property , data and methods within an object that per form a named action.,11
+Pseudocode ," a method of showing the detailed logical steps in an algorithm, using keywords, identifiers with meaningful names, and mathematical operators.",11
+QBE - Query by Example ,DBMS feature that has a graphical user interface to assist users with retrieving data,11
+Report window , a separate window in the runtime environment of the IDE that shows the contents of variables during the execution of a program.,11
+Scope,"extent or range of view, outlook, application, operation, effectiveness, etc.:
+an investigation of wide scope.  In a computer program a variable might be local or global.",11
+Segments (memory) , variable,11
+String,A data type that is consisted of a sequence of characters,11
+Syntax error , an error in the grammar of a source program.,11
+User defined data type , a data type based on an existing data type or other data types that have been defined by a programmer.,11
+Write ,file access mode in which data can be written to a file; any existing data stored in the file will be overwritten,11
+Constant , a named value that cannot change during the execution of a program.,11
+Constructor , a method used to initialise a new object.,11
+Constructor ," a special method to tell Python how to create an object of this class: in Python, the constructor method is always called __init__ with a double underscore on each side of ‘init’",11
+Parallel processing , operation which allows a process to be split up and for each part to be executed by a different processor at the same time.,11
+Pipelining , allows several instructions to be processed simultaneously without having to wait for previous instructions to finish.,11
+event,"Something that can happen within a system, such as a timer event, or an input to the system, that may trigger a transition to another state",11
+Exception ,an unexpected event that disrupts the execution of a program.,11
+Exception handling ,the process of responding to an exception within the program so that the program does not halt unexpectedly.,11
+Extend ,"a class which uses the functionality of an existing class, but also adds to or overwrites some of it",11
+Imperative programming , program ming pa radigm in wh ich t he steps requ ired to execut e a program are set out in the orde r they need to be carried out .,11
+Inheritance ," process in which the methods and data from one class, a sup erclas s or base class, are copied to another class, a derived class.",11
+Procedure ," a set of statements that can be grouped together and easily called in a program whenever required, rather than repeating all of the state ment s each time.",11
+Segment number ,index number of a segment.,11
+Upper bound ,the index of the last element in an array.,11
+Adaptive maintenance , the alteration of a program to perform new tasks.,12
+Analysis ," part of the program development lifecycle; a process of investigation, leading to the specification of what a program is required to do.",12
+Corrective main tenance , the correction of any errors that appear during use.,12
+Maintenance , part of the program development lifecycle; the process of making sure that the program continues to work during use.,12
+Modular Programming,Modular programming is the process of subdividing a computer program into separate sub-programs. A module is a separate software component. It can often be used in a variety of applications and functions with other components of the system. Similar functions are grouped in the same unit of programming code and separate functions are developed as separate units of code so that the code can be reused by other applications.,12
+Optimisation (compilation) ,the fourth stage in the process of compilation; the creation of an efficient object program.,12
+Program development lifecycle ," the process of developing a program set out in five stages: analysis, design, coding, testing and maintenance.",12
+Thrash point ,point at which the execution of a process comes to a halt since the system is busier paging in/out of memory rather than actually executing them.,12
+Waterfall model ," a linear sequential program development cycle, in which each stage is completed before the next is begu n.",12
+Backus Naur form (BNF) notation ,a formal method of defining the grammatical rules of a programming language.,12
+Design , part of the program development lifecycle; it uses the program specification from the analysis stage to show how the program should be developed .,12
+finite state machine (FSM),A system that consists of a fixed set of possible states with a set of allowable inputs that may change the state and a set of possible outputs,12
+guard condition,A condition which must be met for a transition to occur from one state to another,12
+Heuristic , method that employs a practical solution (rather than a theoretical one) to a problem; when applied to algorithms this includes running tests and obtaining results by trial and error.,12
+Method,a function called upon an object allowing interaction with that object,12
+Node or vertex , fundamental unit from which graphs are formed (nodes and vertices are the points where edges converge).,12
+Softmodem , abbreviation for software modem; a software? based modem that uses minimal hardware.,12
+Source code , a computer program before translation into machine code.,12
+Acceptance testing , the testing of a completed program to prove to the customer that it works as required.,12
+Alpha testing , the testing of a completed or nearly completed program in-house by the development team,12
+Black box testing,a method of testing a program that tests a module's inputs and outputs. Called black box because no access to source code.,12
+Dry run ,a method of testing a program that involves working through a program or module from a program manually.,12
+Integrated development environment (IDE) , a suite of programs used to write and test a computer program written in a hig h,12
+Library routine ,a tested and ready-to-use routine available in the development system of a programming language that can be incorporated into a program.,12
+Logic error , an error in the logic of a program.,12
+Prettyprinting ," the practice of displaying or printing well set out and formatted source code, making it easier to read and und ersta nd .",12
+Process states ," running, ready and blocked; the states of a process requiring execution.",12
+Program library ,a library on a computer where programs and routines are stored which can be freely accessed by other software developers for use in their own programs.,12
+state transition table,"A table that shows all the states of an FSM, all possible inputs and the state resulting from each input",12
+Stub testing , the use of dummy modules for testing purposes.,12
+System Utilities,"Utility software is system software designed to help analyze, configure, optimize or maintain a computer.",12
+Test plan , a detailed list showing all the stages of testing and every test that will be performed for a particular program.,12
+Test strategy , an overview of the testing required to meet the requirements specified for a particular program; it shows how and when the program is to be tested.,12
+Unwinding , process which occurs when a recursive function finds the base case and the function returns the values.,12
+Walkthrough , a method of testing a program; a for mal version of a dry run us ing pre,12
